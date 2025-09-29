@@ -12,7 +12,7 @@ PinkyDB is not just a joke; it's a fully functional, file-based **JSON Document 
 Why Emojis? Because traditional database query languages are **boring** and prone to human error. PinkyDB prioritizes **clarity, fun, and native efficiency**.
 
   * **Logic (Brain):** The core engine uses native Python set operations (`&`, `|`, `-`) for fast, secure filtering on document IDs, minimizing disk I/O. **No SQL, no drivers, no messy configuration.**
-  * **Chaos (Pinky):** The user interface is built entirely on the intuitive (and hilarious) **EmojiQL** grammar. You don't ask for `WHERE status = 'active' AND premium = 1`; you ask for **`😎 ➕ 🚀`**.
+  * **Chaos (Pinky):** Your user interface will be built entirely on the intuitive (and hilarious) **EmojiQL** grammar. You don't ask for `WHERE status = 'active' AND premium = 1`; you ask for **`😎 ➕ 🚀`**.
 
 -----
 
