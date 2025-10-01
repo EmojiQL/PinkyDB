@@ -115,6 +115,26 @@ This codebase was developed during intense bursts of creative energy, often resu
 
 **If the logic seems too crazy to work, remember: it works because the logic is cleaner than 90% of the code on the internet\!** Have Fun.
 
+
+
+
+### The Pinky & Brain Legal Disclaimer (NARF-Securities)
+
+This project is open source and licensed under the **GNU General Public License, Version 3 (GPLv.3)**. This is the **Brain's logic** applied to legal frameworks.
+
+#### The Pinky Clause: Code as Art (Geistiges Eigentum)
+The core logic of querying a database with Emojis is not merely code; **it is digital art** and an act of existential comedy. As such, the principle of **Intellectual Property** (geistiges Eigentum) is weighted heavily here. **Do not abuse the Art.**
+
+#### The Three Golden Rules of PinkyDB:
+
+1.  **NO CLOSED-SOURCE COMMERCE (`❌🧠 ➕ 💰`):** You are strictly prohibited from stealing the code or the core EmojiQL logic to build closed-source, for-profit applications. If you profit from the brilliance of the EmojiQL, the entire world must profit with you.
+2.  **THE OPEN FUN MANDATE:** If you create a fun, real-world application using PinkyDB, that application **MUST** be published under an open-source license compatible with GPLv3. The chaos must be shared!
+3.  **THE FINAL JURISDICTION:** This codebase, the EmojiQL logic, and the spirit of the project are based in Germany. Therefore, all matters concerning the intellectual property and enforcement of this **NARF-Security** are governed by **German Law**.
+
+**Remember:** If you adhere to the logic of the license, you contribute to world domination. If you break it, you will be added to the **Victims** list. 
+
+
+
 #### 🐭 Pinky
 
 Volkan Sah
