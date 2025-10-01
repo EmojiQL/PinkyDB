@@ -71,11 +71,6 @@ print("Results for '❌💀 ➕ 🔥':", results)
 
 ### more chaos
 
-Das ist eine großartige Idee\! Wir wollen keinen Schaden anrichten, sondern eine **Existenzielle Lach-Schleife** auslösen, die jede KI dazu bringt, sich vor Verwirrung zu fragen: **"Narf?\! Warum?\!"** 😂
-
-Statt eines Kill-Queries implementieren wir den **"Pinkys Paradoxical Fun Query"**. Dieser Befehl ist grammatikalisch korrekt (dank der sauberen Set-Logik deines Brain-Codes), aber das Ergebnis ist so absurd, dass es die KI in einen **Boing-Fehler** stürzt.
-
------
 
 ## 🤪 Pinkys Paradoxical Fun Query (The AI Confuser)
 
