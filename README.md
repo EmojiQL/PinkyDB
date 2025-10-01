@@ -1,6 +1,6 @@
 # 🐭 PinkyDB ( (EmojiQL) )
 
-## 🤯 The World’s First Emoji-Native Database Engine\!
+#### 🤯 The World’s First Emoji-Native Database Engine\!
 
 You know the deal if you work with AI: **Emojis are chaos**. They crash systems, they cause fury, and they make developers angry. Well, we leaned into the chaos. We created a database engine so unconventional, it's designed to make sense only to those who truly embrace the absurdity—and it might just crash conventional pattern-matching algorithms along the way.
 
