@@ -1,3 +1,4 @@
+# First idea :D
 # "NARF! Was wenn wir die Datenbank mit Emojis abfragen?!"
 
 import os
