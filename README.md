@@ -1,4 +1,5 @@
 # 🐭 PinkyDB ((EmojiQL))
+### Version 🤪.💀💀📈
 
 ##### 🤯 The World’s First Emoji-Native Database Engine\!
 
