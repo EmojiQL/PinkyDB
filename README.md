@@ -1,4 +1,4 @@
-# 🐭 PinkyDB ((EmojiQL)
+# 🐭 PinkyDB ((EmojiQL))
 #### The first Emoji-Native Database Engine in the world!
 
 > "Narf! What if we query the database with Emojis?!" – Pinky
