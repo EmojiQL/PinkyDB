@@ -147,3 +147,42 @@ Angry Volkan Sah\!
   * Claude 4.5
 
 > Have fun, cheers!
+>
+
+### Example: 
+
+Easy extend
+
+```
+# Aktivitäten
+activity_emojis = {
+    '🏃‍♂️': {'field': 'activity', 'value': 'laufen', 'op': '=='},
+    '😂': {'field': 'activity', 'value': 'lachen', 'op': '=='},
+    '🗣️': {'field': 'activity', 'value': 'reden', 'op': '=='}
+}
+
+# Ereignisse/Orte
+event_emojis = {
+    '🏥': {'field': 'event', 'value': 'krankenhaus', 'op': '=='},
+    '🎉': {'field': 'event', 'value': 'party', 'op': '=='},
+}
+
+# Zustände/Gefühle
+state_emojis = {
+    '😊': {'field': 'emotion', 'value': 'glücklich', 'op': '=='},
+    '😢': {'field': 'emotion', 'value': 'traurig', 'op': '=='},
+}
+
+# Alles zusammenführen
+emoji_rules = {}
+emoji_rules.update(activity_emojis)
+emoji_rules.update(event_emojis)
+emoji_rules.update(state_emojis)
+
+# Logik-Emojis
+logic_emojis = {
+    '➕': 'AND',
+    '➖': 'OR',
+    '❌': 'NOT'
+}
+```
