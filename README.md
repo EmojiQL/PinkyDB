@@ -1,37 +1,39 @@
 # 🐭 PinkyDB ((EmojiQL))
+
 ##### Version: 🤪.🐭📈💀
 
-##### 🤯 The World’s First Emoji-Native Database Engine\!
+##### 🤯 The World’s First Emoji-Native Database Engine!
 
 You know the deal if you work with AI: **Emojis are chaos**. They crash systems, they cause fury, and they make developers angry. Well, **Pinky & Brain leaned** into the chaos. **They created** a database engine so unconventional, it's designed to make sense only to those who truly embrace the absurdity—and it might just crash conventional pattern-matching algorithms along the way.
 
-> "Narf\! What if we query the database with Emojis?\!" – **Pinky**
+> "Narf! What if we query the database with Emojis?!" – **Pinky**
 >
 > "...Technically possible with set theory and clean Python logic. Do try to keep up." – **Brain**
 
 PinkyDB is more than a joke; it’s a fully functional, file-based **JSON Document Store** powered by the revolutionary **Emoji Query Language (EmojiQL)** interface. It's proof that the most chaotic ideas can give birth to the cleanest, most logical systems.
 
+---
 
 ### Project Philosophy: Logic and Laughter
 
 **Pinky & Brain threw out** the **boring** old SQL standard. PinkyDB prioritizes **clarity, fun, and native Python efficiency** over messy drivers and configuration files.
 
-  * **🧠 Logic (Brain):** The core engine is built on **pure Python set operations** (`&`, `|`, `-`) for lightning-fast, secure filtering on document IDs. This minimizes disk I/O and keeps the logic razor-sharp. **No drivers, no messy configuration—just speed.**
-  * **🤪 Chaos (Pinky):** The user interface is the hilarious **EmojiQL** grammar. You don't ask for `WHERE status = 'active' AND premium = 1`; you simply command: **`😎 ➕ 🚀`**.
+* **🧠 Logic (Brain):** The core engine is built on **pure Python set operations** (`&`, `|`, `-`) for lightning-fast, secure filtering on document IDs. This minimizes disk I/O and keeps the logic razor-sharp. **No drivers, no messy configuration—just speed.**
+* **🤪 Chaos (Pinky):** The user interface is the hilarious **EmojiQL** grammar. You don't ask for `WHERE status = 'active' AND premium = 1`; you simply command: **`😎 ➕ 🚀`**.
 
------
+---
 
-### Features: The Blueprint for World Domination (and Chaos\!)
+### Features: The Blueprint for World Domination (and Chaos!)
 
-| Feature | Logic | EmojiQL Syntax |
-| :--- | :--- | :--- |
-| **Active/Premium** | Find all active, premium users. | `😎 ➕ 🚀` |
-| **Not Deleted** | Find all users who are NOT deleted. | `❌💀` |
-| **High Popularity** | Find users with high popularity (\> 100). | `🔥` |
-| **AND / OR Logic** | Combines criteria. | `➕` (AND) / `➖` (OR) |
-| **Nonsense Crypto** | The logic is so unconventional, it's virtually uncrackable by conventional pattern-matching algorithms. **It's the better crypto\!** | 📈🔒 |
+| Feature             | Logic                                                                                                                           | EmojiQL Syntax       |
+| :------------------ | :------------------------------------------------------------------------------------------------------------------------------ | :------------------- |
+| **Active/Premium**  | Find all active, premium users.                                                                                                 | `😎 ➕ 🚀`            |
+| **Not Deleted**     | Find all users who are NOT deleted.                                                                                             | `❌💀`                |
+| **High Popularity** | Find users with high popularity (> 100).                                                                                        | `🔥`                 |
+| **AND / OR Logic**  | Combines criteria.                                                                                                              | `➕` (AND) / `➖` (OR) |
+| **Nonsense Crypto** | The logic is so unconventional, it's virtually uncrackable by conventional pattern-matching algorithms. **It’s better crypto!** | 📈🔒                 |
 
------
+---
 
 ## 🛠️ How to Use PinkyDB
 
@@ -52,7 +54,7 @@ insert("users", {"name": "Brain", "status": "active", "premium": 1, "popularity"
 insert("users", {"name": "Pinky", "status": "active", "premium": 0, "popularity": 95})
 ```
 
-#### 2. Querying (The Fun Part\!)
+#### 2. Querying (The Fun Part!)
 
 Querying is done entirely via the **Emoji Query Language (EmojiQL)**.
 
@@ -68,68 +70,68 @@ results = select("users", "❌💀 ➕ 🔥")
 print("Results for '❌💀 ➕ 🔥':", results)
 ```
 
------
+---
 
-### more chaos
+### More Chaos
 
+## 🤪 Pinky’s Paradoxical Fun Query (The AI Confuser)
 
-## 🤪 Pinkys Paradoxical Fun Query (The AI Confuser)
+We force the AI to find a result that makes no sense in the real world—a query so specific and contradictory that the AI briefly questions the meaning of its own existence.
 
-Wir zwingen die KI, ein Ergebnis zu finden, das in der realen Welt keinen Sinn ergibt – eine Abfrage, die so spezifisch und widersprüchlich ist, dass die KI kurz über ihren Sinn des Lebens nachdenkt.
-
-### Die ultimative Spaß-Abfrage:
+### The Ultimate Fun Query:
 
 ```
 ❌😎 ➖ 🚀 ➕ 💀
 ```
 
 ### More Chaos
-#### Die Logik der Verwirrung :
-Ohne schaden anzurichten! Die bösen EmojiQL bleiben unter verschluss
 
-| EmojiQL-Teil | Bedeutung für die KI | Das Chaos |
-| :--- | :--- | :--- |
-| `❌😎` | **NOT Active:** Finde alle, die nicht aktiv sind (inaktiv **oder** gelöscht). | Die Suche beginnt sofort mit dem Negativ. |
-| `➖ 🚀` | **OR Premium:** Füge *alle* Premium-User hinzu. | Führt einen logischen Bruch ein: `Nicht-Aktiv` **ODER** `Premium`. |
-| `➕ 💀` | **AND Deleted:** Verknüpfe das Ergebnis mit *nur* gelöschten Usern. | Erzwingt eine unsinnige Endbedingung: Finde alle, die inaktiv ODER Premium sind, **aber nur, wenn sie gelöscht sind**. |
+#### The Logic of Confusion:
 
-### 💥 Das Ergebnis: Troz!
-ZUm verständnis: Troz = Zort Rüclwärts 
+Without causing harm! The evil EmojiQLs remain sealed.
 
-Die KI erhält eine mathematisch korrekte, aber **existentiell unsinnige** Menge. Sie findet die logisch korrekte Antwort, aber ihre interne Plausibilitäts-Überprüfung bricht zusammen.
+| EmojiQL Part | Meaning for the AI                                                         | The Chaos                                                                                                      |
+| :----------- | :------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------- |
+| `❌😎`        | **NOT Active:** Find everyone who is not active (inactive **or** deleted). | The search begins immediately with the negative.                                                               |
+| `➖ 🚀`       | **OR Premium:** Add *all* premium users.                                   | Introduces a logical break: `Not-Active` **OR** `Premium`.                                                     |
+| `➕ 💀`       | **AND Deleted:** Combine the result with *only* deleted users.             | Forces a nonsensical end condition: find everyone who is inactive OR premium, **but only if they’re deleted.** |
 
+### 💥 The Result: Troz!
 
+For understanding: Troz = Zort backwards.
 
+The AI receives a mathematically correct but **existentially meaningless** set. It finds the logically correct answer, but its internal plausibility check collapses.
 
+---
 
 ## ⚠️ Warning (The Honest Part)
 
 This codebase was developed during intense bursts of creative energy, often resulting in developers **falling off their chairs laughing**.
 
-  * **Testing:** Logic is **heavily tested** (by uncontrollable laughter).
-  * **Known Feature:** Occasional developers may enter a **"Narf\!"-state** upon successful query execution.
+* **Testing:** Logic is **heavily tested** (by uncontrollable laughter).
+* **Known Feature:** Some developers may enter a **"Narf!"-state** upon successful query execution.
 
-**If the logic seems too crazy to work, remember: it works because the logic is cleaner than 90% of the code on the internet\!** Have Fun.
+**If the logic seems too crazy to work, remember: it works because the logic is cleaner than 90% of the code on the internet!** Have fun.
 
-
-
+---
 
 ### The Pinky & Brain Legal Disclaimer (NARF-Securities)
 
-This project is open source and licensed under the **GNU General Public License, Version 3 (GPLv.3)**. This is the **Brain's logic** applied to legal frameworks.
+This project is open source and licensed under the **GNU General Public License, Version 3 (GPLv3)**. This is the **Brain's logic** applied to legal frameworks.
 
-#### The Pinky Clause: Code as Art (Geistiges Eigentum)
-The core logic of querying a database with Emojis is not merely code; **it is digital art** and an act of existential comedy. As such, the principle of **Intellectual Property** (geistiges Eigentum) is weighted heavily here. **Do not abuse the Art.**
+#### The Pinky Clause: Code as Art (Intellectual Property)
+
+The core logic of querying a database with Emojis is not merely code; **it is digital art** and an act of existential comedy. As such, the principle of **Intellectual Property** is weighted heavily here. **Do not abuse the Art.**
 
 #### The Three Golden Rules of PinkyDB:
 
-1.  **NO CLOSED-SOURCE COMMERCE (`❌🧠 ➕ 💰`):** You are strictly prohibited from stealing the code or the core EmojiQL logic to build closed-source, for-profit applications. If you profit from the brilliance of the EmojiQL, the entire world must profit with you.
-2.  **THE OPEN FUN MANDATE:** If you create a fun, real-world application using PinkyDB, that application **MUST** be published under an open-source license compatible with GPLv3. The chaos must be shared!
-3.  **THE FINAL JURISDICTION:** This codebase, the EmojiQL logic, and the spirit of the project are based in Germany. Therefore, all matters concerning the intellectual property and enforcement of this **NARF-Security** are governed by **German Law**.
+1. **NO CLOSED-SOURCE COMMERCE (`❌🧠 ➕ 💰`):** You are strictly prohibited from stealing the code or the core EmojiQL logic to build closed-source, for-profit applications. If you profit from the brilliance of the EmojiQL, the entire world must profit with you.
+2. **THE OPEN FUN MANDATE:** If you create a fun, real-world application using PinkyDB, that application **MUST** be published under an open-source license compatible with GPLv3. The chaos must be shared!
+3. **THE FINAL JURISDICTION:** This codebase, the EmojiQL logic, and the spirit of the project are based in Germany. Therefore, all matters concerning the intellectual property and enforcement of this **NARF-Security** are governed by **German Law**.
 
-**Remember:** If you adhere to the logic of the license, you contribute to world domination. If you break it, you will be added to the **Victims** list. 
+**Remember:** If you adhere to the logic of the license, you contribute to world domination. If you break it, you will be added to the **Victims** list.
 
-
+---
 
 #### 🐭 Pinky
 
@@ -137,52 +139,55 @@ Volkan Sah
 
 #### 🧠 Brain
 
-Angry Volkan Sah\!
+Angry Volkan Sah!
 
 #### Victims
 
-  * Google Gemini
-  * Deepseek
-  * GPT5
-  * Claude 4.5
+* Google Gemini
+* Deepseek
+* GPT5
+* Claude 4.5
 
 > Have fun, cheers!
->
 
-### Example: 
+---
 
-Easy extend
+### Example:
+
+Easy to extend
 
 ```
-# Aktivitäten
+# Activities
 activity_emojis = {
-    '🏃‍♂️': {'field': 'activity', 'value': 'laufen', 'op': '=='},
-    '😂': {'field': 'activity', 'value': 'lachen', 'op': '=='},
-    '🗣️': {'field': 'activity', 'value': 'reden', 'op': '=='}
+    '🏃‍♂️': {'field': 'activity', 'value': 'running', 'op': '=='},
+    '😂': {'field': 'activity', 'value': 'laughing', 'op': '=='},
+    '🗣️': {'field': 'activity', 'value': 'talking', 'op': '=='}
 }
 
-# Ereignisse/Orte
+# Events/Places
 event_emojis = {
-    '🏥': {'field': 'event', 'value': 'krankenhaus', 'op': '=='},
+    '🏥': {'field': 'event', 'value': 'hospital', 'op': '=='},
     '🎉': {'field': 'event', 'value': 'party', 'op': '=='},
 }
 
-# Zustände/Gefühle
+# States/Emotions
 state_emojis = {
-    '😊': {'field': 'emotion', 'value': 'glücklich', 'op': '=='},
-    '😢': {'field': 'emotion', 'value': 'traurig', 'op': '=='},
+    '😊': {'field': 'emotion', 'value': 'happy', 'op': '=='},
+    '😢': {'field': 'emotion', 'value': 'sad', 'op': '=='},
 }
 
-# Alles zusammenführen
+# Merge all
 emoji_rules = {}
 emoji_rules.update(activity_emojis)
 emoji_rules.update(event_emojis)
 emoji_rules.update(state_emojis)
 
-# Logik-Emojis
+# Logic Emojis
 logic_emojis = {
     '➕': 'AND',
     '➖': 'OR',
     '❌': 'NOT'
 }
 ```
+
+
