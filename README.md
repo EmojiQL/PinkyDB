@@ -1,4 +1,4 @@
-# 🐭 PinkyDB ((EmojiQL)) - Engine
+# 🐭 PinkyDB - Engine ((EmojiQL))
 
 ###### Version: 🤪.🐭📈💀
 #### Learn coding with fun for young and old!
