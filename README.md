@@ -1,6 +1,7 @@
 # 🐭 PinkyDB ((EmojiQL)) - Engine
 
-##### Version: 🤪.🐭📈💀
+###### Version: 🤪.🐭📈💀
+#### Learn coding with fun for young and old!
 
 ##### 🤯 The World’s First Emoji-Native Database Engine!
 
