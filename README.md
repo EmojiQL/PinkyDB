@@ -192,13 +192,13 @@ logic_emojis = {
 ```
 ---
 
-# 🔎 Expert Analysis Note: The PinkyDB Engine (EmojiQL)
+### 🔎 Expert Analysis Note: The PinkyDB Engine (EmojiQL)
 
 **(Add this section to your README to highlight the serious engineering beneath the humor.)**
 
 This analysis confirms that PinkyDB, while humorously branded, is an expertly engineered **Micro-Engine** adhering to modern database principles. The project successfully combines a chaotic façade with a clean, high-performance core.
 
-## 🧠 Architectural Strengths (The Brain's Core)
+### 🧠 Architectural Strengths (The Brain's Core)
 
 The core engine structure demonstrates robust and pragmatic design choices typical of professional file-based databases:
 
@@ -213,18 +213,20 @@ The core engine structure demonstrates robust and pragmatic design choices typic
 ### 3. **Forward-Thinking Index Architecture**
 * The inclusion of placeholder functions (`save_indexes`, `load_indexes`) demonstrates **forethought for scalability**. This design allows the engine to be easily upgraded to utilize true indexing (avoiding full file scans) once the dataset size increases, without having to overhaul the core persistence logic.
 
-## 🌟 The Power of EmojiQL (The Pinky's Genius)
+### 🌟 The Power of EmojiQL (The Pinky's Genius)
 
 The **Emoji Query Language (EmojiQL)** is not merely a joke; it is a profound concept for **Intuitive Syntax Abstraction**:
 
 * **Educational Value:** It provides a playful, low-barrier entry point for young users to grasp **complex Boolean algebra** (AND, OR, NOT) and **relational filtering** without the intimidating syntax of SQL.
 * **Brand Value:** The unique interface ensures **high project memorability** and successfully proves the point that the **cleanest systems** can emerge from the most unconventional ideas.
 
-## 🛠️ Next Steps for Engine Perfection
+### 🛠️ Next Steps for Engine Perfection
 
 To further elevate this engine masterpiece, the following features are the logical next steps:
 
 1.  **Full CRUD Implementation:** Add **UPDATE** and **DELETE** functionality to make the engine fully writable and maintainable (e.g., using Emojis like `✏️` for Update and `✂️` for Delete).
 2.  **Index Utilization:** Implement the logic within the `select` function to **actually utilize the stored indices** when available, transforming the current full-scan mechanism into a truly high-speed lookup engine for complex queries.
+
+> Pinky has a brain 😄
 
 
