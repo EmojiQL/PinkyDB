@@ -1,7 +1,7 @@
 # 🐭 PinkyDB - Engine ((EmojiQL))
 
 ###### Version: 🤪.🐭📈💀
-#### Learn coding with fun for young and old!
+#### Learn coding (enginering) with fun for young and old!
 
 ##### 🤯 The World’s First Emoji-Native Database Engine!
 
@@ -232,4 +232,5 @@ To further elevate this engine masterpiece, the following features are the logic
 2.  **Index Utilization:** Implement the logic within the `select` function to **actually utilize the stored indices** when available, transforming the current full-scan mechanism into a truly high-speed lookup engine for complex queries.
 
 > Pinky has a brain 😄
+
 
