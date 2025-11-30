@@ -132,13 +132,6 @@ The core logic of querying a database with Emojis is not merely code; **it is di
 
 ---
 
-#### 🐭 Pinky
-
-Volkan Sah
-
-#### 🧠 Brain
-
-Angry Volkan Sah!
 
 #### Victims
 
@@ -233,5 +226,9 @@ To further elevate this engine masterpiece, the following features are the logic
 2.  **Index Utilization:** Implement the logic within the `select` function to **actually utilize the stored indices** when available, transforming the current full-scan mechanism into a truly high-speed lookup engine for complex queries.
 
 > Pinky has a brain 😄
+
+
+####  Copyright
+[Volkan Sah](https://volkansah.github.io/)
 
 
