@@ -5,8 +5,6 @@
 
 ##### 🤯 The World’s First Emoji-Native Database Engine!
 
-You know the deal if you work with AI: **Emojis are chaos**. They crash systems, they cause fury, and they make developers angry. Well, **Pinky & Brain leaned** into the chaos. **They created** a database engine so unconventional, it's designed to make sense only to those who truly embrace the absurdity—and it might just crash conventional pattern-matching algorithms along the way.
-
 > "Narf! What if we query the database with Emojis?!" – **Pinky**
 >
 > "...Technically possible with set theory and clean Python logic. Do try to keep up." – **Brain**
