@@ -9,7 +9,7 @@
 >
 > "...Technically possible with set theory and clean Python logic. Do try to keep up." – **Brain**
 
-PinkyDB is more than a joke; it’s a fully functional, file-based **JSON Document Store** powered by the revolutionary **Emoji Query Language (EmojiQL)** interface. It's proof that the most chaotic ideas can give birth to the cleanest, most logical systems.
+PinkyDB is more than a joke; it’s a fully functional, file-based **JSONL Document Store** powered by the revolutionary **Emoji Query Language (EmojiQL)** interface. It's proof that the most chaotic ideas can give birth to the cleanest, most logical systems.
 
 ---
 
