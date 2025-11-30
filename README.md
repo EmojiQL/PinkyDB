@@ -148,6 +148,7 @@ Angry Volkan Sah!
 * Deepseek
 * GPT5
 * Claude 4.5
+* Your name here 🍭
 
 > Have fun, cheers!
 
